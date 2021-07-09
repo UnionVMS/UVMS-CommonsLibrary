@@ -17,7 +17,7 @@
 		<dependency>
 			<groupId>org.jboss.resteasy</groupId>
 			<artifactId>resteasy-multipart-provider</artifactId>
-            <version>3.8.1.Final</version>	<!-- Upgrading this to 4.x.x causes weird errors in configs rest tests. Handle with care -->
+            <version>4.7.0.Final</version>	<!-- Upgrading this to 4.x.x causes weird errors in configs rest tests. Handle with care -->
 			<exclusions>
 				<exclusion>
 					<groupId>org.apache.james</groupId>
